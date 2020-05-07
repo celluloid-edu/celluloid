@@ -34,7 +34,7 @@
     "babel-runtime": "^6.26.0",
     "change-case": "^4.0.0",
     "classnames": "^2.2.6",
-    "connected-react-router": "^4.3.0",
+    "connected-react-router": "^6.0.0",
     "enzyme": "^3.3.0",
     "get-urls": "^8.0.0",
     "i18next": "^12.0.0",

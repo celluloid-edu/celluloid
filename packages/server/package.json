@@ -26,7 +26,7 @@
     "nodemailer-smtp-transport": "^2.7.4",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
-    "pg": "^7.4.0",
+    "pg": "^8.0.0",
     "pino": "^6.2.1",
     "ramda": "^0.25.0",
     "unfurl.js": "^1.1.6",

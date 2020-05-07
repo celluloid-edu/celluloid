@@ -28,7 +28,7 @@
     "passport-local": "^1.0.0",
     "pg": "^7.4.0",
     "pino": "^6.2.1",
-    "ramda": "^0.25.0",
+    "ramda": "^0.27.0",
     "unfurl.js": "^1.1.6",
     "validator": "^10.2.0"
   },
@@ -54,7 +54,7 @@
     "@types/passport": "^1.0.0",
     "@types/passport-local": "^1.0.33",
     "@types/pg": "^7.4.1",
-    "@types/ramda": "^0.25.35",
+    "@types/ramda": "^0.27.0",
     "@types/validator": "^9.4.0",
     "babel-loader": "^8.0.0",
     "concurrently": "^4.0.0",

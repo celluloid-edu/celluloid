@@ -1640,10 +1640,12 @@
   dependencies:
     query-string "*"
 
-"@types/ramda@^0.25.35":
-  version "0.25.51"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.25.51.tgz#d5421d0e190c56c64c112a761a85782fc971409d"
-  integrity sha512-xcmtfHIgF9SYjhGdsZR1nQslxG4hu0cIpFfLQ4CWdw3KzHvl7ki1AzFLQUkbDTG42ZN3ZsQfdRzXRlkAvbIy5Q==
+"@types/ramda@^0.27.0":
+  version "0.27.4"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.27.4.tgz#816002c95e54cf3f3d5d7e8e014998450934d992"
+  integrity sha512-uE1OSffeRZoFjVah2RjR4pAyptzqN6T+fEsWr06biuUstR2IBIzKhSGwKxzISAoy4SC+JkJv8y99Hm3cJ/TDOQ==
+  dependencies:
+    ts-toolbelt "^6.3.3"
 
 "@types/randomcolor@^0.5.0":
   version "0.5.4"
@@ -11346,10 +11348,10 @@ railroad-diagrams@^1.0.0:
   resolved "https://registry.yarnpkg.com/railroad-diagrams/-/railroad-diagrams-1.0.0.tgz#eb7e6267548ddedfb899c1b90e57374559cddb7e"
   integrity sha1-635iZ1SN3t+4mcG5Dlc3RVnN234=
 
-ramda@^0.25.0:
-  version "0.25.0"
-  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.25.0.tgz#8fdf68231cffa90bc2f9460390a0cb74a29b29a9"
-  integrity sha512-GXpfrYVPwx3K7RQ6aYT8KPS8XViSXUVJT1ONhoKPE9VAleW42YE+U+8VEyGWt41EnEQW7gwecYJriTI0pKoecQ==
+ramda@^0.27.0:
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.27.0.tgz#915dc29865c0800bf3f69b8fd6c279898b59de43"
+  integrity sha512-pVzZdDpWwWqEVVLshWUHjNwuVP7SfcmPraYuqocJp1yo2U1R7P+5QAfDhdItkuoGqIBnBYrtPp7rEPqDn9HlZA==
 
 randexp@0.4.6:
   version "0.4.6"
@@ -13898,6 +13900,11 @@ ts-loader@^5.0.0:
     loader-utils "^1.0.2"
     micromatch "^3.1.4"
     semver "^5.0.1"
+
+ts-toolbelt@^6.3.3:
+  version "6.6.2"
+  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-6.6.2.tgz#2e1681ff654bf0ab24636d2ff1cbc802316b391f"
+  integrity sha512-P0fN4yv9rkTmKsu/Xew8heopmQ3fDnCF5tY4CV1ZMAUeBHJA6QsJhMEdxtWNdgV7dnKKAAw+A12azm2cONQ6NQ==
 
 tsconfig-paths-webpack-plugin@^2.0.0:
   version "2.0.0"

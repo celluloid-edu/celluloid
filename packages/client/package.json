@@ -45,7 +45,7 @@
     "password-generator": "^2.2.0",
     "prop-types": "^15.6.2",
     "query-string": "^6.1.0",
-    "ramda": "^0.25.0",
+    "ramda": "^0.27.0",
     "randomcolor": "^0.5.3",
     "rc-slider": "^8.5.0",
     "react": "^16.4.0",

@@ -9,7 +9,7 @@
   "dependencies": {
     "@celluloid/client": "^0.1.0",
     "@types/express-pino-logger": "^4.0.2",
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "compression": "^1.7.2",
     "cookie-parser": "^1.4.3",
